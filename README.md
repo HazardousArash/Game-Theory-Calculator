@@ -1,10 +1,15 @@
 # Game-Theory-Calculator
-Calculator designed for game thoery. You can install it easily. Requires no pre-installed .Net runtimes(I shipped it with all dependencies).
-suggestions:
+
+Calculator designed for game theory.  
+You can install it easily. Requires no pre-installed .NET runtimes (I shipped it with all dependencies).
+
+Suggestions:  
 arashbnf13831396@gmail.com
 
-https://s8.uupload.ir/files/screenshot_2026-02-03_193402_rrak.png
+## Screenshots
 
-https://s8.uupload.ir/files/screenshot_2026-02-03_193229_ubdd.png
+![Main Screen](https://s8.uupload.ir/files/screenshot_2026-02-03_193402_rrak.png)
 
-https://s8.uupload.ir/files/screenshot_2026-02-03_193254_kagm.png
+![Calculation View](https://s8.uupload.ir/files/screenshot_2026-02-03_193229_ubdd.png)
+
+![Result Output](https://s8.uupload.ir/files/screenshot_2026-02-03_193254_kagm.png)
